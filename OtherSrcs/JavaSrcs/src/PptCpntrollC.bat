@@ -1,0 +1,1 @@
+cmd /c javac PptControll.java -d C:\Users\V1450\Documents\Sota\home

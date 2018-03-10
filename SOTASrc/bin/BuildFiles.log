@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BuildOmitCheck xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <javacPath>C:\Program Files (x86)\VstoneMagic\jdk\bin\javac.exe</javacPath>
+  <argument> -d "C:\Users\d.fujimoto\Desktop\Sota\SotaWorkSpace\TCPSenSample02\bin"  -g -Xlint:deprecation   -cp ".;C:\Users\d.fujimoto\VstoneMagicData\jar\commons-codec-1.10.jar;C:\Users\d.fujimoto\VstoneMagicData\jar\core-2.2.jar;C:\Users\d.fujimoto\VstoneMagicData\jar\gson-2.6.1.jar;C:\Users\d.fujimoto\VstoneMagicData\jar\javase-2.2.jar;C:\Users\d.fujimoto\VstoneMagicData\jar\jna-4.1.0.jar;C:\Users\d.fujimoto\VstoneMagicData\jar\opencv-310.jar;C:\Users\d.fujimoto\VstoneMagicData\jar\SotaAppManager.jar;C:\Users\d.fujimoto\VstoneMagicData\jar\sotalib.jar;C:\Users\d.fujimoto\VstoneMagicData\jar\SRClientHelper.jar"  -encoding UTF-8 </argument>
+  <files>
+    <FileData>
+      <path>jp\co\mysota\mymain.java</path>
+      <timestamp>2017-10-27T15:01:52.3659177+09:00</timestamp>
+      <size>7039</size>
+      <ignore>true</ignore>
+    </FileData>
+  </files>
+</BuildOmitCheck>
